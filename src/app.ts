@@ -1,19 +1,12 @@
-import { Configuration, OpenAIApi } from "openai";
-export const configuration = new Configuration({
-  apiKey: "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",
-});
-export const openai = new OpenAIApi(configuration);
-
+import { NameQeury } from "./NameQuery";
+import { config } from "dotenv";
+import { configuration, openai } from "./openaiApi";
+// configuration
+config();
 (document.querySelector(".bannerBlock") as HTMLElement).style.height = "100px";
 
+// submitbutton config
 const submitBt = document.querySelector("#submitNameQuery");
-
-class NameQeury {
-  private gender: "male" | "female";
-  constructor(gender: "male" | "female") {
-    this.gender = gender;
-  }
-}
 
 const submitBtnHandeler = function (event: Event) {
   event.preventDefault();
@@ -23,14 +16,7 @@ const submitBtnHandeler = function (event: Event) {
   generateNames(nameQeury);
 };
 
-function generatePrompt(nameQuery: NameQeury) {
-  return `Suggest three names for newborn child.
-  the child gender is ${nameQuery}.`;
-}
-
-export default async function generateNames(
-  nameQuery: NameQeury
-): Promise<void | string[]> {
+async function generateNames(nameQuery: NameQeury): Promise<void | string[]> {
   if (!configuration.apiKey) {
     alert(
       "OpenAI API key not configured, please follow instructions in README.md"
@@ -41,7 +27,7 @@ export default async function generateNames(
   try {
     const completion = await openai.createCompletion({
       model: "text-davinci-003",
-      prompt: generatePrompt(nameQuery),
+      prompt: nameQuery.generatePrompt(),
       temperature: 0.6,
     })!;
     //const data = await JSON.parse(completion.data.choices[0].text!);
