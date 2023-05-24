@@ -1,6 +1,6 @@
 import { NameQeury } from "./NameQuery";
 import { config } from "dotenv";
-import { configuration, openai } from "./openaiApi";
+import { configuration, openai } from "./openaiAPI";
 // configuration
 config();
 (document.querySelector(".bannerBlock") as HTMLElement).style.height = "100px";
@@ -11,7 +11,8 @@ const submitBt = document.querySelector("#submitNameQuery");
 const submitBtnHandeler = function (event: Event) {
   event.preventDefault();
   console.log("aaa");
-  const nameQeury = new NameQeury("female");
+  const nameQeury = new NameQeury("female", 2, "王", "we want chinese name");
+  //
 
   generateNames(nameQeury);
 };
@@ -25,12 +26,16 @@ async function generateNames(nameQuery: NameQeury): Promise<void | string[]> {
   }
 
   try {
+    console.log(nameQuery.generatePrompt());
     const completion = await openai.createCompletion({
       model: "text-davinci-003",
       prompt: nameQuery.generatePrompt(),
-      temperature: 0.6,
+      max_tokens: 257,
+      temperature: 0.3,
     })!;
     //const data = await JSON.parse(completion.data.choices[0].text!);
+    console.log(completion);
+
     console.log(completion.data.choices[0].text!);
   } catch (err) {
     console.log(err);

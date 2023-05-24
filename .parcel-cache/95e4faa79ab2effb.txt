@@ -1,4 +1,4 @@
-6620
+6623
 125C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-svgo\node_modules\svgo\dist\svgo.browser.js133292741993464257 0
 76C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite133292742003075299 1
 106C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\runtime-react-refresh\package.json133292741982433184 0
@@ -14,7 +14,7 @@
 102C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\css-select\node_modules\dom-serializer133292741987428827 1
 83C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\msgpackr\index.d.ts133292741987808825 0
 68C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc133292741972747712 1
-55C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\.env133293459284896829 0
+55C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\.env133293515405637912 0
 70C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\dotenv133293456520057170 1
 106C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\lightningcss\node\browserslistToTargets.js133292741979286115 0
 115C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133292741983833309 0
@@ -33,7 +33,7 @@
 132C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\search.js133292741994965306 0
 61C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\.gitignore133292643325306312 0
 125C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\css-tools.js133292741990130213 0
-55C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist133293462762387473 1
+55C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist133293507602611325 1
 102C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\css-tree\cjs\parser\parse-selector.cjs133292741991295420 0
 116C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@popperjs\core\dist\esm\modifiers\preventOverflow.js133292620113919228 0
 84C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\terser\lib\output.js133292741986743569 0
@@ -97,14 +97,14 @@
 89C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\posthtml-parser\readme.md133292741979076123 0
 95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\regions\TM.js133292742002261935 0
 82C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\utility-types\dist133292741981039341 1
-67C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\src\NameQuery.ts133293452689362698 0
+67C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\src\NameQuery.ts133293505093966846 0
 95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\bootstrap\js\dist\util\swipe.js133292620109165705 0
 93C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_decorate.js133292741983548646 0
 72C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\asynckit133292617459727857 1
 98C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133292741982958782 0
 113C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\csso\node_modules\css-tree\lib\tokenizer\types.js133292741997301381 0
 74C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\parse-json133292741976919561 1
-54C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\src133293449692537111 1
+54C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\src133293467945688828 1
 83C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\terser\lib\compress133292741988028941 1
 106C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\features\transforms2d.js133292742002301935 0
 83C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\terser\CHANGELOG.md133292741988739773 0
@@ -114,12 +114,31 @@
 82C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\parse-json\license133292741975613110 0
 120C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\LICENSE133292741986703566 0
 64C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\tsconfig.json133292723854310296 0
-61C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\src\app.ts133293463280504613 0
+61C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\src\app.ts133293507597250786 0
 119C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\csso\node_modules\css-tree\lib\parser\parse-selector.js133292741996903591 0
 85C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\svgo\plugins\_path.js133292741977975740 0
 101C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\css-tree\cjs\syntax\node\Selector.cjs133292741992119283 0
 96C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\.bin\node-gyp-build-optional.ps1133292742005882257 0
 107C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\type-fest\source\union-to-intersection.d.ts133292741983502784 0
+121C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\CHANGELOG.md133292741991933997 0
+92C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\workers\lib\types.js133292741984127944 0
+78C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\terser\main.js133292741984575389 0
+98C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\LICENSE133292741982553221 0
+82C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\css-select\LICENSE133292741975851518 0
+95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\regions\KY.js133292741999451900 0
+90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\node-gyp-build\optional.js133292741977865690 0
+121C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\csso\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133292741996190397 0
+102C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_iterable_to_array.js133292741987003636 0
+114C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js133292741985115777 0
+72C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\domutils133292741980694249 1
+95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\bootstrap\scss\_list-group.scss133292620117593849 0
+90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\msgpackr\dist\index.min.js133292741980764259 0
+116C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js133292741993644251 0
+80C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\tslib\tslib.d.ts133292741979806119 0
+95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@types\node\globals.global.d.ts133293461120062642 0
+90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\core\lib\Parcel.js133292741994717415 0
+117C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\bin\svgo133292741986893714 0
+67C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\src\openaiAPI.ts133293468290764168 0
 124C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\csso\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133292741995412857 0
 69C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\chalk133292741978770930 1
 110C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\fs-search\fs-search.linux-x64-gnu.node133292741984695453 0
@@ -299,18 +318,6 @@
 99C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\features\video.js133292742002601911 0
 90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\lightningcss\node\index.js133292741979676153 0
 78C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\domelementtype133292741979076123 1
-121C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\CHANGELOG.md133292741991933997 0
-92C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\workers\lib\types.js133292741984127944 0
-78C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\terser\main.js133292741984575389 0
-98C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\LICENSE133292741982553221 0
-82C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\css-select\LICENSE133292741975851518 0
-95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\regions\KY.js133292741999451900 0
-90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\node-gyp-build\optional.js133292741977865690 0
-121C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\csso\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133292741996190397 0
-102C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_iterable_to_array.js133292741987003636 0
-114C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js133292741985115777 0
-72C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\domutils133292741980694249 1
-95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\bootstrap\scss\_list-group.scss133292620117593849 0
 87C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\packager-js\src133292741984157950 1
 77C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\svgo\bin\svgo133292741976718149 0
 95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\regions\GY.js133292741998346655 0
@@ -799,7 +806,6 @@
 91C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\css-select\lib\types.js.map133292741988759767 0
 122C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133292741993891051 0
 88C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\weak-lru-cache\README.md133292741979176156 0
-87C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\react-error-overlay\lib133292741976868156 1
 105C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\csso\node_modules\mdn-data\css\units.json133292741989674964 0
 121C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\package.json133292741995589200 0
 95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\weak-lru-cache\rollup.config.js133292741977835684 0
@@ -831,7 +837,6 @@
 82C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\picocolors\LICENSE133292741975583141 0
 93C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\v8-compile-cache\CHANGELOG.md133292741982143205 0
 86C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\is-number\package.json133292741975573112 0
-116C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_object_without_properties_loose.js133292741988369780 0
 88C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\v8-compile-cache\LICENSE133292741981778008 0
 95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\regions\GR.js133292741998306663 0
 112C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@babel\highlight\node_modules\chalk\templates.js133292741978060944 0
@@ -1109,9 +1114,6 @@
 84C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\callsites\index.d.ts133292741976282827 0
 95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\regions\BN.js133292741989314955 0
 111C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133292741991452411 0
-90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\msgpackr\dist\index.min.js133292741980764259 0
-116C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js133292741993644251 0
-80C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\tslib\tslib.d.ts133292741979806119 0
 81C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\lightningcss\node133292741980904288 1
 95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\caniuse-lite\data\regions\KW.js133292741999451900 0
 84C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\tslib\tslib.es6.html133292741976312865 0
@@ -1274,7 +1276,7 @@
 107C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\css-tree\cjs\syntax\node\common\feature.cjs133292741983823307 0
 121C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133292741988949867 0
 80C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\svgo\lib\path.js133292741982653201 0
-68C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\NameQuery.js133293461135290725 0
+68C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\NameQuery.js133293515270114023 0
 105C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\css-tree\lib\utils\create-custom-error.js133292741994757440 0
 108C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133292741983648638 0
 96C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\terser\lib\compress\inference.js133292741984137947 0
@@ -1546,7 +1548,7 @@
 135C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts.map133292741980874250 0
 96C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\cosmiconfig\dist\ExplorerBase.js133292741977205670 0
 82C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\process\browser.js133292747202315759 0
-62C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\app.js133293463284067289 0
+62C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\app.js133293515270214077 0
 101C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\bootstrap\scss\mixins\_deprecate.scss133292620117172433 0
 93C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\regenerator-runtime\README.md133292741977595678 0
 96C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\source-map-js\lib\source-node.js133292741979736135 0
@@ -1625,6 +1627,7 @@
 83C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\picocolors\types.ts133292741978240924 0
 116C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index.cjs133292741992189280 0
 119C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js133292741977965731 0
+87C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\react-error-overlay\lib133292741976868156 1
 139C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-select-adapter.js133292741989834948 0
 108C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\csso\node_modules\css-tree\cjs\utils\url.cjs133292741995005299 0
 91C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\react-error-overlay\LICENSE133292741976588150 0
@@ -4945,7 +4948,6 @@
 78C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@types\node\fs133293461121340735 1
 129C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\dist\svgo.browser.js133292741993614254 0
 83C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@types\node\fs.d.ts133293461120042624 0
-95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@types\node\globals.global.d.ts133293461120062642 0
 85C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@types\node\http.d.ts133293461120087788 0
 86C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@types\node\https.d.ts133293461120161145 0
 90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@types\node\inspector.d.ts133293461120210755 0
@@ -5123,6 +5125,7 @@
 102C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_non_iterable_rest.js133292741987708827 0
 104C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_object_spread_props.js133292741988149759 0
 110C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_object_without_properties.js133292741988269764 0
+116C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_object_without_properties_loose.js133292741988369780 0
 91C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\packager-js\LICENSE133292741981478014 0
 112C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_possible_constructor_return.js133292741988459766 0
 88C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@swc\helpers\lib\_set.js133292741988659760 0
@@ -5859,7 +5862,7 @@
 113C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n133292741987498829 1
 116C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\LICENSE133292741985780741 0
 121C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\package.json133292741988369780 0
-66C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\index.html133293461989196654 0
+66C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\index.html133293498717927925 0
 118C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\README.md133292741990090230 0
 128C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\properties.json133292741988949867 0
 90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\diagnostic\LICENSE133292741985780741 0
@@ -6071,8 +6074,6 @@
 128C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\jsAPI.d.ts133292741994072141 0
 126C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\jsAPI.js133292741990300221 0
 128C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\plugins.js133292741990890241 0
-90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\core\lib\Parcel.js133292741994717415 0
-117C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\bin\svgo133292741986893714 0
 116C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css133292741990130213 1
 121C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\index.js133292741987118801 0
 90C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\@parcel\markdown-ansi\test133292741979606128 1
@@ -6614,8 +6615,10 @@
 79C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\.bin\terser.cmd133292742005882257 0
 79C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\.bin\terser.ps1133292742005882257 0
 95C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\node_modules\.bin\update-browserslist-db.ps1133292742005892262 0
-66C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\app.js.map133293463284067289 0
-73C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\index.5670a418.js133293462762347123 0
-77C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\index.5670a418.js.map133293462762367130 0
-72C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\NameQuery.js.map133293461135290725 0
+66C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\app.js.map133293515270204074 0
+73C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\index.5670a418.js133293507602571511 0
+77C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\index.5670a418.js.map133293507602601333 0
+72C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\NameQuery.js.map133293515270106977 0
+68C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\openaiApi.js133293515270144073 0
+72C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\openaiApi.js.map133293515270135048 0
 72C:\Users\Matthew\Documents\GitHub\NameGeneratorGPT\dist\openaiUtility.js133292690352806527 0
