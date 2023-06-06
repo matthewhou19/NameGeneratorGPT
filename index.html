@@ -25,78 +25,117 @@
   <body>
     <div class="container">
       <d class="row bannerBlock"></d>
-      <form>
-        <div class="mb-3">
-          
-        <div class="row">
-          <div class="col-md-6">
-            <label for="languageSelect" class="form-label">LastName</label>
-            <select
-              class="form-select form-control"
-              aria-label="Default select example"
-              id="languageSelect"
-            >
-              <option selected>language</option>
-              <option value="English">English</option>
-              <option value="Chinese">Chinese</option>
-            </select>
+      <div class="row p-5 m-5">
+        <form class="row g-5 px-5">
+          <div
+            id="info-group"
+            class="row row-cols-lg-2 row-cols-1 p-3 gy-2 gx-5"
+          >
+            <div class="col">
+              <div class="row">
+                <label for="languageSelect" class="form-label col-4"
+                  >Language</label
+                >
+                <div class="col-8">
+                  <select
+                    class="form-select form-control"
+                    aria-label="Default select example"
+                    id="languageSelect"
+                  >
+                    <option value="English" selected>English</option>
+
+                    <option value="Chinese">Chinese</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="row">
+                <label for="LastName" class="form-label col-4">LastName</label>
+                <div class="col-8">
+                  <input type="text" class="form-control" id="LastName" />
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="row">
+                <div class="col-4">Gender</div>
+                <div class="col-8 row row-cols-lg-auto ms-1">
+                  <div class="col form-check form-check-inline">
+                    <input
+                      class="form-check-input"
+                      type="radio"
+                      name="inlineRadioOptions"
+                      id="inlineRadio1"
+                      value="option1"
+                    />
+                    <label class="form-check-label" for="inlineRadio1"
+                      >Male</label
+                    >
+                  </div>
+
+                  <div class="col form-check form-check-inline">
+                    <input
+                      class="form-check-input"
+                      type="radio"
+                      name="inlineRadioOptions"
+                      id="inlineRadio2"
+                      value="option2"
+                    />
+                    <label class="form-check-label" for="inlineRadio2"
+                      >Female</label
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="row">
+                <div class="col-4">
+                  <label for="languageSelect" class="form-label">Length</label>
+                </div>
+                <div class="col-8">
+                  <select
+                    class="form-select form-control"
+                    aria-label="Default select example"
+                  >
+                    <option value="1" selected>2</option>
+
+                    <option value="2">3</option>
+                  </select>
+                </div>
+              </div>
+            </div>
           </div>
 
-          <div class="col-md-6">
-            <label for="inputZip" class="form-label">LastName</label>
-            <input type="text" class="form-control" id="inputZip" />
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 mb-3 form-check">
-            <div class="form-check form-check-inline">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="inlineRadioOptions"
-                id="inlineRadio1"
-                value="option1"
-              />
-              <label class="form-check-label" for="inlineRadio1">Male</label>
+          <div class="row row-cols-1 gx-4">
+            <div class="col-2">
+              <label for="parents_note " class="form-label">Note</label>
             </div>
-            <div class="form-check form-check-inline">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="inlineRadioOptions"
-                id="inlineRadio2"
-                value="option2"
-              />
-              <label class="form-check-label" for="inlineRadio2">Female</label>
+            <div class="col-10 pe-5">
+              <textarea
+                type="text"
+                class="form-control"
+                id="parents_note"
+                placeholder="Anything you want to tell us"
+              >
+              </textarea>
             </div>
           </div>
-          <div class="col-md-6">
-            <select
-              class="form-select form-control"
-              aria-label="Default select example"
+          <div class="row justify-content-center mt-3">
+            <button
+              id="submitNameQuery"
+              type="submit"
+              class="btn btn-primary col-4"
             >
-              <option selected>name length</option>
-              <option value="1">2</option>
-              <option value="2">3</option>
-            </select>
+              Generate
+            </button>
           </div>
-        </div>
-        <div class="col-12">
-          <label for="parents_note" class="form-label">Note</label>
-          <input
-            type="text"
-            class="form-control"
-            id="parents_note"
-            placeholder="Anything you want to tell us"
-          />
-        </div>
-        <div class="d-grid gap-2 col-6 mx-auto">
-          <button id="submitNameQuery" type="submit" class="btn btn-primary ">
-          Generate
-        </button>
+        </form>
       </div>
-        
-      </form>
       <!-- Content here -->
     </div>
   </body>
