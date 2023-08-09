@@ -4,6 +4,8 @@
 
 NameGeneratorGPT is a learning tool for interacting with the OpenAI API. It uses Node.js to generate unique names for newborn children, inspired by classical masterpieces. The application also provides the context and meaning of the names.
 
+This project was created as a way to explore and understand the capabilities of the OpenAI API. The idea was to create a simple yet meaningful application that could showcase the potential of AI in generating creative content. By generating names from classical masterpieces, we can see how AI can be used to create new and unique content that is still rooted in our cultural heritage. This project serves as a stepping stone for anyone interested in learning about AI and its potential applications.
+
 ## Installation
 
 To install and run NameGeneratorGPT, follow these steps:
